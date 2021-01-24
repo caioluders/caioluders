@@ -17,8 +17,8 @@
 </a>  
 
   
-<br/>    
-I’m a n00b and the software you're going to find here are mainly focused on security || art-ish.   
+<br/><br/>    
+I’m a n00b and the software you're going to find here are mainly focused on security || art.   
 
 ## TL;DR  
 <table><tr><td valign="top" width="50%">
