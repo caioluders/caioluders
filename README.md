@@ -12,6 +12,9 @@
 <a href="https://twitter.com/caioluders" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a rel="me" href="https://infosec.exchange/@caioluders">
+<img src=https://img.shields.io/badge/mastodon-%2300acee.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/caioluders" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
