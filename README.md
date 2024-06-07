@@ -36,3 +36,8 @@ I’m a n00b and the software you're going to find here are mainly focused on se
 
 [![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caioluders&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioluders&theme=dark&layout=compact&hide=Makefile,Objective-C,HTML,CSS&exclude_repo=Improve-Visual----Descritor&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('geolado');]{x0000}$}
