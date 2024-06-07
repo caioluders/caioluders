@@ -40,4 +40,4 @@ I’m a n00b and the software you're going to find here are mainly focused on se
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i.imgur.com/QxuhThS.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/caioluders/caioluders/assets/2964660/9d2a17d6-dc2d-42b8-956f-b2707dcefd77');]{x0000}$}
