@@ -40,4 +40,5 @@ I’m a n00b and the software you're going to find here are mainly focused on se
 
 
 ```math
-\ce{$&#x5C;unicode{<script>alert(1)</script>}{x0000}$}
+\ce{$&#x5C;unicode[<script>alert(1)</script>]{x0000}$}
+```
