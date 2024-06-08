@@ -40,5 +40,5 @@ I’m a n00b and the software you're going to find here are mainly focused on se
 
 
 ```math
-$&#x5C;href[javascript:alert(1)][=]{x0000}
+$&#x5C;href{javascript:alert(1)}{=}{x0000}
 ```
