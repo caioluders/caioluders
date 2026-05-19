@@ -38,7 +38,8 @@ I’m a n00b and the software you're going to find here are mainly focused on se
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioluders&theme=dark&layout=compact&hide=Makefile,Objective-C,HTML,CSS&exclude_repo=Improve-Visual----Descritor&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-```math
-\ce{$&#x5C;unicode{javascript:alert(1)}{=}{x0000}}
+```mermaid
+%%{init: {"fontFamily": "x;a{b} :not(&){background:red !important} c{d}"}}%%
+graph TD
+    A --> B
 ```
